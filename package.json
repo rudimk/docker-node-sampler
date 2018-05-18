@@ -1,0 +1,22 @@
+{
+  "name": "docker-node-sampler",
+  "version": "1.0.0",
+  "description": "A sample codebase for a session I'm giving on Docker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudimk/docker-node-sampler.git"
+  },
+  "keywords": [
+    "docker"
+  ],
+  "author": "Rudraksh MK <rudimk.cloud@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rudimk/docker-node-sampler/issues"
+  },
+  "homepage": "https://github.com/rudimk/docker-node-sampler#readme"
+}
